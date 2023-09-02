@@ -1,0 +1,93 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.address {
+    display: flex;
+    justify-content: space-between;
+}
+
+.mern {
+    color: gray;
+}
+
+.icon {
+    font-size: 20px;
+}
+
+.line {
+    height: 1vh;
+    width: 100%;
+    background-color: black;
+}
+
+.jawan {
+    color: gray;
+}
+
+.kam {
+    line-height: 5px;
+}
+
+.lamba {
+    line-height: 25px;
+    /* background-color: aqua; */
+}
+
+.info {
+    line-height: 40px;
+    border-bottom: 2px dashed grey;
+}
+
+.kamban {
+    line-height: 15px;
+}
+
+.iconpoChogo {
+    font-size: 30px;
+    padding-top: 5px;
+
+}
+
+.borderpo {
+    border-bottom: 2px dashed gray;
+}
+
+.Skills-gama {
+    display: inline-block;
+    margin-right: 15px;
+    border-bottom: 2px solid gray;
+}
+
+.language-kun {
+    display: flex;
+    justify-content: space-between;
+}
+
+.fullline {
+    border: 5px solid;
+    border-radius: 10px;
+}
+
+.halfline {
+    border: 5px solid rgb(158, 156, 156);
+    border-radius: 10px;
+
+}
+
+.halfline1 {
+    width: 20%;
+    border: 5px solid rgb(38, 38, 38);
+    border-radius: 10px;
+    position: absolute;
+    top: 311%;
+}
+
+.halfline2 {
+    width: 15%;
+    border: 5px solid rgb(38, 38, 38);
+    border-radius: 10px;
+    position: absolute;
+    top: 311%;
+}
